@@ -1,0 +1,20 @@
+========================================================================
+                                MIT LİSANSI
+                          (TÜRKÇE BİLGİLENDİRME ÖZETİ)
+========================================================================
+
+TELİF HAKKI SAHİBİ: [2025] [TELİF HAKKI Emoshan263]
+
+1. İZİNLER:
+   - Kullanma, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma, alt lisans verme ve satma.
+   - Ticari amaçlar hariç, her amaç için kullanabilirsiniz.
+
+2. KOŞULLAR:
+   - Yazılımın tüm kopyalarında ve önemli bölümlerinde orijinal telif hakkı bildirimini ve lisans metnini bulundurmanız zorunludur.
+   - Yazılımın kopyasını oluştururken bir yerinde bu github hesabını belirtmelisiniz.
+
+3. SORUMLULUK REDDİ:
+   - YAZILIM, "OLDUĞU GİBİ" VE HİÇBİR AÇIK VEYA ZIMNİ GARANTİ OLMADAN (TİCARİ ELVERİŞLİLİK, AMACA UYGUNLUK VEYA İHLAL ETMEME GARANTİLERİ DAHİL) SUNULMUŞTUR.
+   - HİÇBİR DURUMDA YAZARLAR (Emoshan263) VEYA TELİF HAKKI SAHİPLERİ, YAZILIMIN KULLANIMINDAN VEYA BAŞKA ŞEKİLLERDE YAZILIMLA BAĞLANTILI OLARAK ORTAYA ÇIKAN HERHANGİ BİR İDDİA, ZARAR VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZLAR.
+   
+========================================================================
